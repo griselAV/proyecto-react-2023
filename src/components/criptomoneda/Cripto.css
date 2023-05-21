@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    row-gap: 20px;
+    column-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.color{
+    background-color: antiquewhite;
+    padding: 8px;
+    min-height: 30px;
+    min-width: 20px;
+}
